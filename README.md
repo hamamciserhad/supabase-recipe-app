@@ -16,9 +16,7 @@ A personal recipe collection app — save, organise, and rediscover every dish y
 
 | Landing Page | Dashboard | Recipe Detail |
 |---|---|---|
-| _screenshot_ | _screenshot_ | _screenshot_ |
-
-> Replace the cells above with real screenshots once deployed.
+| ![Landing](public/screenshots/landing.png) | ![Dashboard](public/screenshots/dashboard.png) | ![Detail](public/screenshots/detail.png) |
 
 ---
 
