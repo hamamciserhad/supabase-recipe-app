@@ -8,7 +8,7 @@
 
 A personal recipe collection app — save, organise, and rediscover every dish you love. Built with the **Next.js 14 App Router**, **Supabase** (Auth, PostgreSQL, Storage), and a warm orange UI powered by Tailwind CSS and shadcn/ui.
 
-> 💡 **Live demo:** _deploy your own copy using the guide below — takes about 5 minutes._
+
 
 ---
 
